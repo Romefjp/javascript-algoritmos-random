@@ -4,3 +4,5 @@ Este es una carpata que contiene algorítmos creador por mí, se que pueden ser 
 
 
 Suerte y un saludo.
+
+- JP
